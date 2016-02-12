@@ -14,7 +14,7 @@ Maison des ligues by Papyrus
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
-
+</lol>
   </head>
 
   <body>
